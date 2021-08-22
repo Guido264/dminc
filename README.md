@@ -49,7 +49,7 @@ given a wrong url the following message will be displayed:
 
 ![fail-fetch-dark](https://user-images.githubusercontent.com/67164680/130362336-870a6d6a-f5bd-426e-9825-4516afe0022a.png)
 
-When trying to access an undefined route, a Not found message is delivered.
+When trying to access an undefined route, a Not found message is delivered but you can still go to the show lists using the back to shows button.
 
 ![not-found-dark](https://user-images.githubusercontent.com/67164680/130362355-8bcddf9c-f5d8-41b9-a7ba-a3919a2c63ef.png)
 
